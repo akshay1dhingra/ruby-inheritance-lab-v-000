@@ -1,5 +1,5 @@
 class User
-  attr_accessor :first :last
+  attr_accessor :first, :last
 
   def initialize(first, last)
     @first = first
